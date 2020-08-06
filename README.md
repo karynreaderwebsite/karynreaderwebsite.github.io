@@ -1,1 +1,1 @@
-# karynreaderwebsite.github.io
+# karynreader.github.io
